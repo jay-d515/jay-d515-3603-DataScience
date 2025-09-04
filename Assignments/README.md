@@ -2,4 +2,4 @@
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  0  | link 0      | description 0          |
+|  0  | [A01](./Assignments/A01)      | Getting Started with Google Colab         |
